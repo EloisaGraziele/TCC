@@ -1,0 +1,18 @@
+services:
+  pma:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: sistema-presenca-pma
+    environment:
+      PMA_HOST: mysql  # Nome do serviço MySQL no Docker Compose
+      PMA_USER: sail   # Nome do usuário MySQL
+      PMA_PASSWORD: password  # Senha do usuário MySQL
+    ports:
+      - "8081:80"
+    depends_on:
+      - mysql
+    networks:
+      - sail
+
+networks:
+  sail:
+    driver: bridge
