@@ -22,7 +22,7 @@
 <h2>Descrição</h2>
 
 <p>
-O Sistema <i>Web</i> de Controle de Frequência com ESP8266 e QR Code para Escolas Municipais. E um sitema web intefrado com ESP
+O Sistema <i>Web</i> de Controle de Frequência com ESP8266 e QR Code para Escolas Municipais, é uma aplicação Web que utiliza QR Codes e o microcontrolador ESP8266 para registrar automaticamente a presença de alunos em escolas municipais. Ele valida dias letivos e identifica os alunos pelo CPF, registrando as horas de entrada e saída. O sistema também gera relatórios e facilita o gerenciamento pelas equipes de Secretaria e Administração, garantindo controle e segurança.
 </p>
 
 
