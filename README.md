@@ -30,7 +30,7 @@ O Sistema <i>Web</i> de Controle de Frequência com ESP8266 e QR Code para Escol
 <h2>Documentação</h2>
 
 <p>
-Para mais informações, consulte a <a href="[(https://github.com/EloisaGraziele/TCC.wiki.git)]">Wiki</a>.
+Para mais informações, consulte a <a href="https://github.com/EloisaGraziele/TCC/wiki">Wiki</a>.
 </p>
 
 <h2>Licença</h2>
