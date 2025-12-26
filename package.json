@@ -1,0 +1,13 @@
+{
+  "name": "mqtt-websocket-bridge",
+  "version": "1.0.0",
+  "description": "Bridge WebSocket MQTT para Laravel",
+  "main": "mqtt-websocket-bridge.js",
+  "dependencies": {
+    "mqtt": "^5.0.0",
+    "axios": "^1.6.0"
+  },
+  "scripts": {
+    "start": "node mqtt-websocket-bridge.js"
+  }
+}
